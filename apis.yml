@@ -74,3 +74,5 @@ x-enrichment:
   status: enriched
   artifacts_added: 1
   pass: local-v1
+x-parent: nava
+x-relationship: product
